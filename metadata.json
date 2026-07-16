@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 컴퓨터 부품 비교기",
+  "description": "깔끔하고 모던한 다크 모드 스타일의 CPU 및 GPU 컴퓨터 부품 비교 웹사이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
